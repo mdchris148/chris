@@ -73,7 +73,7 @@ background:linear-gradient(135deg, #ff4d6d,#ff758f);
 color:white;
 font-family:Arial;
 text-align:center;">
-<h1>nukoo nukoo </h1>
+<h1>Marua Bazina </h1>
 <p>Thanks for accepting it without force😂
 knd i really love you!</p>
 </div>`;
@@ -88,4 +88,4 @@ button.style.top = y + "px";
 </script>
 </body>
 </html>
-# chris
+
